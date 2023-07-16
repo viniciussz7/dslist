@@ -2,7 +2,6 @@ package com.devv7.dslist.services;
 
 import com.devv7.dslist.dtos.GameDTO;
 import com.devv7.dslist.dtos.GameMinDTO;
-import com.devv7.dslist.entities.Game;
 import com.devv7.dslist.repositories.GameRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
